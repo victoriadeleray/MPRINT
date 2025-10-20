@@ -1,0 +1,176 @@
+sample_name	time	age	ab	vaccine	ATTRIBUTE_all	age-ab
+15920.Ctl.ExtBlank.B8.P2						
+15920.Ctl.ExtBlank.C8.P2						
+15920.Ctl.ExtBlank.D8.P2						
+15920.Ctl.ExtBlank.E7.P1						
+15920.Ctl.ExtBlank.E8.P2						
+15920.Ctl.ExtBlank.F7.P1						
+15920.Ctl.ExtBlank.F8.P2						
+15920.Ctl.ExtBlank.G7.P1						
+15920.Ctl.ExtBlank.G8.P2						
+15920.Ctl.ExtBlank.H7.P1						
+15920.Ctl.ExtBlank.H8.P2						
+15920.Ctl.PCRBlank1						
+15920.Ctl.PCRBlank2						
+15920.Ctl.PCRBlank3						
+15920.Ctl.PCRBlank4						
+15920.Ctl.ZymoMockA.A7.P1						
+15920.Ctl.ZymoMockA.A9.P2						
+15920.Ctl.ZymoMockB.B7.P1						
+15920.Ctl.ZymoMockB.B9.P2						
+15920.Ctl.ZymoMockC.C7.P1						
+15920.Ctl.ZymoMockC.C9.P2						
+15920.Ctl.ZymoMockD.D7.P1						
+15920.Ctl.ZymoMockD.D9.P2						
+15920.Ctl.ZymoMockE.E9.P2						
+15920.Ctl.ZymoMockF.F9.P2						
+15920.Ctl.ZymoMockG.G9.P2						
+15920.Ctl.ZymoPCR.A						
+15920.Ctl.ZymoPCR.B						
+15920.Ctl.ZymoPCR.C						
+15920.Ctl.ZymoPCR.D						
+15920.MOC10D0	t=1	mom	Augmentin		mom-Augmentin-t=1	mom-Augmentin
+15920.MOC10D15	t=3	mom	Augmentin		mom-Augmentin-t=3	mom-Augmentin
+15920.MOC10D22	t=4	mom	Augmentin		mom-Augmentin-t=4	mom-Augmentin
+15920.MOC10D29	t=5	mom	Augmentin		mom-Augmentin-t=5	mom-Augmentin
+15920.MOC10D8	t=2	mom	Augmentin		mom-Augmentin-t=2	mom-Augmentin
+15920.MOC11D0	t=1	mom	Augmentin		mom-Augmentin-t=1	mom-Augmentin
+15920.MOC11D15	t=3	mom	Augmentin		mom-Augmentin-t=3	mom-Augmentin
+15920.MOC11D22	t=4	mom	Augmentin		mom-Augmentin-t=4	mom-Augmentin
+15920.MOC11D29	t=5	mom	Augmentin		mom-Augmentin-t=5	mom-Augmentin
+15920.MOC11D8	t=2	mom	Augmentin		mom-Augmentin-t=2	mom-Augmentin
+15920.MOC12D0	t=1	mom	Augmentin		mom-Augmentin-t=1	mom-Augmentin
+15920.MOC12D14	t=3	mom	Augmentin		mom-Augmentin-t=3	mom-Augmentin
+15920.MOC12D21	t=4	mom	Augmentin		mom-Augmentin-t=4	mom-Augmentin
+15920.MOC12D28	t=4	mom	Augmentin		mom-Augmentin-t=4	mom-Augmentin
+15920.MOC12D7	t=2	mom	Augmentin		mom-Augmentin-t=2	mom-Augmentin
+15920.MOC13D0	t=1	mom	Augmentin		mom-Augmentin-t=1	mom-Augmentin
+15920.MOC13D15	t=3	mom	Augmentin		mom-Augmentin-t=3	mom-Augmentin
+15920.MOC13D22	t=4	mom	Augmentin		mom-Augmentin-t=4	mom-Augmentin
+15920.MOC13D29	t=5	mom	Augmentin		mom-Augmentin-t=5	mom-Augmentin
+15920.MOC13D8	t=2	mom	Augmentin		mom-Augmentin-t=2	mom-Augmentin
+15920.MOC14D0	t=1	mom	Augmentin		mom-Augmentin-t=1	mom-Augmentin
+15920.MOC14D14	t=3	mom	Augmentin		mom-Augmentin-t=3	mom-Augmentin
+15920.MOC14D21	t=4	mom	Augmentin		mom-Augmentin-t=4	mom-Augmentin
+15920.MOC14D28	t=4	mom	Augmentin		mom-Augmentin-t=4	mom-Augmentin
+15920.MOC14D7	t=2	mom	Augmentin		mom-Augmentin-t=2	mom-Augmentin
+15920.MOC15D0	t=1	mom	Mock		mom-Mock-t=1	mom-Mock
+15920.MOC15D14	t=3	mom	Mock		mom-Mock-t=3	mom-Mock
+15920.MOC15D21	t=4	mom	Mock		mom-Mock-t=4	mom-Mock
+15920.MOC15D28	t=5	mom	Mock		mom-Mock-t=4	mom-Mock
+15920.MOC15D7	t=2	mom	Mock		mom-Mock-t=2	mom-Mock
+15920.MOC16D0	t=1	mom	Mock		mom-Mock-t=1	mom-Mock
+15920.MOC16D14	t=3	mom	Mock		mom-Mock-t=3	mom-Mock
+15920.MOC16D21	t=4	mom	Mock		mom-Mock-t=4	mom-Mock
+15920.MOC16D28	t=5	mom	Mock		mom-Mock-t=4	mom-Mock
+15920.MOC16D7	t=2	mom	Mock		mom-Mock-t=2	mom-Mock
+15920.MOC17D0	t=1	mom	Mock		mom-Mock-t=1	mom-Mock
+15920.MOC17D14	t=3	mom	Mock		mom-Mock-t=3	mom-Mock
+15920.MOC17D21	t=4	mom	Mock		mom-Mock-t=4	mom-Mock
+15920.MOC17D28	t=5	mom	Mock		mom-Mock-t=4	mom-Mock
+15920.MOC17D7	t=2	mom	Mock		mom-Mock-t=2	mom-Mock
+15920.MOC18D0	t=1	mom	Mock		mom-Mock-t=1	mom-Mock
+15920.MOC18D14	t=3	mom	Mock		mom-Mock-t=3	mom-Mock
+15920.MOC18D21	t=4	mom	Mock		mom-Mock-t=4	mom-Mock
+15920.MOC18D28	t=5	mom	Mock		mom-Mock-t=4	mom-Mock
+15920.MOC18D7	t=2	mom	Mock		mom-Mock-t=2	mom-Mock
+15920.MOC19D0	t=1	mom	Mock		mom-Mock-t=1	mom-Mock
+15920.MOC19D14	t=3	mom	Mock		mom-Mock-t=3	mom-Mock
+15920.MOC19D21	t=4	mom	Mock		mom-Mock-t=4	mom-Mock
+15920.MOC19D28	t=5	mom	Mock		mom-Mock-t=4	mom-Mock
+15920.MOC19D7	t=2	mom	Mock		mom-Mock-t=2	mom-Mock
+15920.MOC1D0	t=1	mom	Amp		mom-Amp-t=1	mom-Amp
+15920.MOC1D15	t=3	mom	Amp		mom-Amp-t=3	mom-Amp
+15920.MOC1D22	t=4	mom	Amp		mom-Amp-t=4	mom-Amp
+15920.MOC1D29	t=5	mom	Amp		mom-Amp-t=5	mom-Amp
+15920.MOC1D8	t=2	mom	Amp		mom-Amp-t=2	mom-Amp
+15920.MOC20D0	t=1	mom	Mock		mom-Mock-t=1	mom-Mock
+15920.MOC20D14	t=3	mom	Mock		mom-Mock-t=3	mom-Mock
+15920.MOC20D21	t=4	mom	Mock		mom-Mock-t=4	mom-Mock
+15920.MOC20D28	t=5	mom	Mock		mom-Mock-t=4	mom-Mock
+15920.MOC20D7	t=2	mom	Mock		mom-Mock-t=2	mom-Mock
+15920.MOC2D0	t=1	mom	Amp		mom-Amp-t=1	mom-Amp
+15920.MOC2D15	t=3	mom	Amp		mom-Amp-t=3	mom-Amp
+15920.MOC2D22	t=4	mom	Amp		mom-Amp-t=4	mom-Amp
+15920.MOC2D29	t=5	mom	Amp		mom-Amp-t=5	mom-Amp
+15920.MOC2D8	t=2	mom	Amp		mom-Amp-t=2	mom-Amp
+15920.MOC3D0	t=1	mom	Amp		mom-Amp-t=1	mom-Amp
+15920.MOC3D15	t=3	mom	Amp		mom-Amp-t=3	mom-Amp
+15920.MOC3D22	t=4	mom	Amp		mom-Amp-t=4	mom-Amp
+15920.MOC3D29	t=5	mom	Amp		mom-Amp-t=5	mom-Amp
+15920.MOC3D8	t=2	mom	Amp		mom-Amp-t=2	mom-Amp
+15920.MOC4D0	t=1	mom	Amp		mom-Amp-t=1	mom-Amp
+15920.MOC4D15	t=3	mom	Amp		mom-Amp-t=3	mom-Amp
+15920.MOC4D22	t=4	mom	Amp		mom-Amp-t=4	mom-Amp
+15920.MOC4D29	t=5	mom	Amp		mom-Amp-t=5	mom-Amp
+15920.MOC4D8	t=2	mom	Amp		mom-Amp-t=2	mom-Amp
+15920.MOC5D0	t=1	mom	Amp		mom-Amp-t=1	mom-Amp
+15920.MOC6D0	t=1	mom	Amp		mom-Amp-t=1	mom-Amp
+15920.MOC6D15	t=3	mom	Amp		mom-Amp-t=3	mom-Amp
+15920.MOC6D22	t=4	mom	Amp		mom-Amp-t=4	mom-Amp
+15920.MOC6D29	t=5	mom	Amp		mom-Amp-t=5	mom-Amp
+15920.MOC6D8	t=2	mom	Amp		mom-Amp-t=2	mom-Amp
+15920.MOC8D0	t=1	mom	Augmentin		mom-Augmentin-t=1	mom-Augmentin
+15920.MOC8D15	t=3	mom	Augmentin		mom-Augmentin-t=3	mom-Augmentin
+15920.MOC8D22	t=4	mom	Augmentin		mom-Augmentin-t=4	mom-Augmentin
+15920.MOC8D29	t=5	mom	Augmentin		mom-Augmentin-t=5	mom-Augmentin
+15920.MOC8D8	t=2	mom	Augmentin		mom-Augmentin-t=2	mom-Augmentin
+15920.MOC90D0	t=1	mom	Augmentin		mom-Augmentin-t=1	mom-Augmentin
+15920.MOC9D14	t=3	mom	Augmentin		mom-Augmentin-t=3	mom-Augmentin
+15920.MOC9D21	t=4	mom	Augmentin		mom-Augmentin-t=4	mom-Augmentin
+15920.MOC9D28	t=5	mom	Augmentin		mom-Augmentin-t=4	mom-Augmentin
+15920.MOC9D7	t=2	mom	Augmentin		mom-Augmentin-t=2	mom-Augmentin
+15920.MOIC10D15	t=3	infant	Augmentin	PBS	infant-Augmentin-t=3	infant-Augmentin
+15920.MOIC10D22	t=4	infant	Augmentin	PBS	infant-Augmentin-t=4	infant-Augmentin
+15920.MOIC10D29	t=5	infant	Augmentin	PBS	infant-Augmentin-t=5	infant-Augmentin
+15920.MOIC11D15	t=3	infant	Augmentin	PCV 20	infant-Augmentin-t=3	infant-Augmentin
+15920.MOIC11D22	t=4	infant	Augmentin	PCV 20	infant-Augmentin-t=4	infant-Augmentin
+15920.MOIC11D29	t=5	infant	Augmentin	PCV 20	infant-Augmentin-t=5	infant-Augmentin
+15920.MOIC12D14	t=3	infant	Augmentin	PBS	infant-Augmentin-t=3	infant-Augmentin
+15920.MOIC12D21	t=4	infant	Augmentin	PBS	infant-Augmentin-t=4	infant-Augmentin
+15920.MOIC12D28	t=5	infant	Augmentin	PBS	infant-Augmentin-t=4	infant-Augmentin
+15920.MOIC13D15	t=3	infant	Augmentin	PCV 20	infant-Augmentin-t=3	infant-Augmentin
+15920.MOIC13D22	t=4	infant	Augmentin	PCV 20	infant-Augmentin-t=4	infant-Augmentin
+15920.MOIC13D29	t=5	infant	Augmentin	PCV 20	infant-Augmentin-t=5	infant-Augmentin
+15920.MOIC14D14	t=3	infant	Augmentin	PCV 20	infant-Augmentin-t=3	infant-Augmentin
+15920.MOIC14D21	t=4	infant	Augmentin	PCV 20	infant-Augmentin-t=4	infant-Augmentin
+15920.MOIC14D28	t=5	infant	Augmentin	PCV 20	infant-Augmentin-t=4	infant-Augmentin
+15920.MOIC15D14	t=3	infant	Mock	PCV 20	infant-Mock-t=3	infant-Mock
+15920.MOIC15D21	t=4	infant	Mock	PCV 20	infant-Mock-t=4	infant-Mock
+15920.MOIC15D28	t=5	infant	Mock	PCV 20	infant-Mock-t=4	infant-Mock
+15920.MOIC16D14	t=3	infant	Mock	PCV 20	infant-Mock-t=3	infant-Mock
+15920.MOIC16D21	t=4	infant	Mock	PCV 20	infant-Mock-t=4	infant-Mock
+15920.MOIC16D28	t=5	infant	Mock	PCV 20	infant-Mock-t=4	infant-Mock
+15920.MOIC17D14	t=3	infant	Mock	PCV 20	infant-Mock-t=3	infant-Mock
+15920.MOIC17D21	t=4	infant	Mock	PCV 20	infant-Mock-t=4	infant-Mock
+15920.MOIC17D28	t=5	infant	Mock	PCV 20	infant-Mock-t=4	infant-Mock
+15920.MOIC18D14	t=3	infant	Mock	PBS	infant-Mock-t=3	infant-Mock
+15920.MOIC18D21	t=4	infant	Mock	PBS	infant-Mock-t=4	infant-Mock
+15920.MOIC18D28	t=5	infant	Mock	PBS	infant-Mock-t=4	infant-Mock
+15920.MOIC19D14	t=3	infant	Mock	PBS	infant-Mock-t=3	infant-Mock
+15920.MOIC19D21	t=4	infant	Mock	PBS	infant-Mock-t=4	infant-Mock
+15920.MOIC19D28	t=5	infant	Mock	PBS	infant-Mock-t=4	infant-Mock
+15920.MOIC1D15	t=3	infant	Amp	PCV 20	infant-Amp-t=3	infant-Amp
+15920.MOIC1D22	t=4	infant	Amp	PCV 20	infant-Amp-t=4	infant-Amp
+15920.MOIC1D29	t=5	infant	Amp	PCV 20	infant-Amp-t=5	infant-Amp
+15920.MOIC20D14	t=3	infant	Mock	PBS	infant-Mock-t=3	infant-Mock
+15920.MOIC20D21	t=4	infant	Mock	PBS	infant-Mock-t=4	infant-Mock
+15920.MOIC20D28	t=5	infant	Mock	PBS	infant-Mock-t=4	infant-Mock
+15920.MOIC2D15	t=3	infant	Amp	PCV 20	infant-Amp-t=3	infant-Amp
+15920.MOIC2D22	t=4	infant	Amp	PCV 20	infant-Amp-t=4	infant-Amp
+15920.MOIC2D29	t=5	infant	Amp	PCV 20	infant-Amp-t=5	infant-Amp
+15920.MOIC3D15	t=3	infant	Amp	PBS	infant-Amp-t=3	infant-Amp
+15920.MOIC3D22	t=4	infant	Amp	PBS	infant-Amp-t=4	infant-Amp
+15920.MOIC3D29	t=5	infant	Amp	PBS	infant-Amp-t=5	infant-Amp
+15920.MOIC4D15	t=3	infant	Amp	PBS	infant-Amp-t=3	infant-Amp
+15920.MOIC4D22	t=4	infant	Amp	PBS	infant-Amp-t=4	infant-Amp
+15920.MOIC4D29	t=5	infant	Amp	PBS	infant-Amp-t=5	infant-Amp
+15920.MOIC6D15	t=3	infant	Amp	PBS	infant-Amp-t=3	infant-Amp
+15920.MOIC6D22	t=4	infant	Amp	PBS	infant-Amp-t=4	infant-Amp
+15920.MOIC6D29	t=5	infant	Amp	PBS	infant-Amp-t=5	infant-Amp
+15920.MOIC8D15	t=3	infant	Augmentin	PCV 20	infant-Augmentin-t=3	infant-Augmentin
+15920.MOIC8D22	t=4	infant	Augmentin	PCV 20	infant-Augmentin-t=4	infant-Augmentin
+15920.MOIC8D29	t=5	infant	Augmentin	PCV 20	infant-Augmentin-t=5	infant-Augmentin
+15920.MOIC9D14	t=3	infant	Augmentin	PCV 20	infant-Augmentin-t=3	infant-Augmentin
+15920.MOIC9D21	t=4	infant	Augmentin	PCV 20	infant-Augmentin-t=4	infant-Augmentin
+15920.MOIC9D28	t=5	infant	Augmentin	PCV 20	infant-Augmentin-t=4	infant-Augmentin
