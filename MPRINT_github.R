@@ -1038,7 +1038,7 @@ final_diablo <- block.splsda(X = data_list, Y = Y, ncomp = 2,
 
 
 set.seed(123)
-diablo_perf <- perf(final_diablo, validation = "loo", dist = "centroids.dist", progressBar = TRUE, near.zero.var = TRUE)
+diablo_perf <- perf(final_diablo, validation = "loo", dist = "centroids.dist", progressBar = TRUE, near.zero.var = TRUE, perm = 500)
 diablo_perf$error.rate
 
 plotIndiv(final_diablo, legend = TRUE, title = "DIABLO: Augmentin vs Mock")
