@@ -1,0 +1,29 @@
+ALDEx2 Differential Abundance of Pups Wk2 AMP vs Mock											
+taxa n=4	we.ep	we.eBH	wi.ep	wi.eBH	rab.all	rab.win.infant.Amp	rab.win.infant.Mock	diff.btw	diff.win	effect	overlap
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales	7.80E-02	9.93E-01	0.00E+00	0.00E+00	11.602293	13.864954	10.7854028	-3.0744816	0.97156104	-3.1222384	0.000548
+k__Bacteria;p__Cyanobacteria;c__Chloroplast;o__Streptophyta	2.83E-02	9.48E-01	0.00E+00	0	11.0826452	13.5764677	10.391704	-3.2373405	1.00983899	-3.1210718	0.000548
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales	1.97E-01	0.99938628	0.00E+00	0	8.07275381	10.9273233	7.57438929	-3.5221123	1.80122165	-1.9574044	0.000548
+k__Bacteria;p__[Thermi];c__Deinococci;o__Deinococcales	0.11240502	0.97366741	1.56E-03	0.00716912	-0.9955432	2.76155576	-2.1376764	-4.9721442	2.75682572	-1.7341954	0.0078293
+											
+ALDEx2 Differential Abundance of Pups Wk3-4 AMP vs Mock											
+taxa n=2	we.ep	we.eBH	wi.ep	wi.eBH	rab.all	rab.win.infant.Amp	rab.win.infant.Mock	diff.btw	diff.win	effect	overlap
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Turicibacterales	9.53E-04	0.02182685	0	0	8.20087631	10.7859291	6.60044036	-4.378386	1.66966416	-2.5310401	0.00027407
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales	0.01342026	0.09607481	0	0	11.0416752	13.7786951	10.6425221	-3.3099774	1.53427788	-2.0536872	0.00027407
+											
+ALDEx2 Differential Abundance of Pups Wk2 AMOX/CLAV vs Mock											
+taxa n=4	we.ep	we.eBH	wi.ep	wi.eBH	rab.all	rab.win.infant.Augmentin	rab.win.infant.Mock	diff.btw	diff.win	effect	overlap
+k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales	0.00049117	0.049525	0	0	5.33742612	3.72308326	8.94773432	4.89096857	1.22044125	3.61707976	0.0003654
+k__Bacteria;p__Actinobacteria;c__Coriobacteriia;o__Coriobacteriales	8.68E-03	3.10E-01	1.40E-03	2.38E-02	-1.259156	-3.1587368	3.66096095	6.60894138	3.05433024	2.13871762	0.0003654
+k__Bacteria;p__Proteobacteria;__;__	1.85E-02	0.48157063	0.00E+00	0	2.21036401	0.09878636	4.88870187	4.53299071	2.47205536	1.87211552	0.0003654
+k__Bacteria;p__[Thermi];c__Deinococci;o__Thermales	3.00E-02	6.31E-01	1.40E-03	2.44E-02	1.51794685	-1.0654609	3.74139487	5.0849967	3.62443298	1.39908828	0.0052332
+											
+ALDEx2 Differential Abundance of Pups Wk3-4 AMOX/CLAV vs Mock											
+taxa n=8	we.ep	we.eBH	wi.ep	wi.eBH	rab.all	rab.win.infant.Augmentin	rab.win.infant.Mock	diff.btw	diff.win	effect	overlap
+k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales	9.53E-09	2.29E-07	0	0	4.03617598	3.22078828	10.518007	7.35177468	1.3670293	5.18806485	0.00018273
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales	3.29E-06	7.49E-05	0.00024975	0.00490603	12.976113	13.8256029	10.3317951	-3.7388207	1.40858751	-2.7112415	0.00018273
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales	0.00081165	0.00735682	0.00153752	0.01134992	-0.1309671	1.1672862	-2.0767251	-3.0658305	1.70452051	-1.7341307	0.03906423
+k__Bacteria;p__Actinobacteria;c__Coriobacteriia;o__Coriobacteriales	0.00267534	0.02708341	0.00185752	0.01688891	-2.7997134	-4.3075132	0.21616801	4.36974714	3.26133612	1.33150903	0.04166829
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales	0.00499379	0.02571946	0.00552377	0.02524295	0.03277969	0.596817	-1.8759931	-2.4399251	1.71282136	-1.3205305	0.06510518
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Bifidobacteriales	0.004577	0.02377685	0.00451307	0.02218696	0.85032476	3.69731265	-1.9233697	-5.8961301	4.83237312	-1.237212	0.06233871
+k__Bacteria;p__Cyanobacteria;c__Chloroplast;o__Streptophyta	0.02267854	0.07583692	0.0069013	0.02916376	-0.4757025	0.60949663	-2.2457005	-2.7535828	2.1665147	-1.1749891	0.08571503
+k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales	0.05571654	0.14470338	0.01136364	0.04190224	-0.873297	0.34348044	-2.5895535	-2.9586371	2.5651435	-1.019689	0.10909147
